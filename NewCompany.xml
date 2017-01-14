@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:company xmlns:ns2="Company">
+    <Employees>
+        <Employee>
+            <ID>123RD</ID>
+            <FirstName>Razvan</FirstName>
+            <LastName>Vasile</LastName>
+            <Department>
+                <No>123</No>
+                <Name>IT</Name>
+                <Manager>Razvan Moc</Manager>
+            </Department>
+            <Phone>0453234</Phone>
+            <Children>0</Children>
+            <Salary>0.0</Salary>
+        </Employee>
+        <Employee>
+            <ID>12RF</ID>
+            <FirstName>Alex</FirstName>
+            <LastName>Vasile</LastName>
+            <Department>
+                <No>111</No>
+                <Name>Finance</Name>
+                <Manager>Robert Ned</Manager>
+            </Department>
+            <Phone>011234</Phone>
+            <Children>0</Children>
+            <Salary>0.0</Salary>
+        </Employee>
+        <Employee>
+            <ID>123RD</ID>
+            <FirstName>Robert</FirstName>
+            <LastName>Radulescu</LastName>
+            <Department>
+                <No>121</No>
+                <Name>Business</Name>
+                <Manager>Nicolae Florin</Manager>
+            </Department>
+            <Phone>0723452912</Phone>
+            <Children>0</Children>
+            <Salary>0.0</Salary>
+        </Employee>
+        <Employee>
+            <ID>123</ID>
+            <FirstName>dwqe</FirstName>
+            <LastName>fwek</LastName>
+            <Department>
+                <No>123</No>
+                <Name>irew</Name>
+                <Manager>ppo</Manager>
+            </Department>
+            <Phone>123</Phone>
+            <Children>1</Children>
+            <Salary>0.0</Salary>
+        </Employee>
+    </Employees>
+    <companyName>IBM</companyName>
+    <companyLocation>Munich</companyLocation>
+</ns2:company>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules>
+	<rule>
+		<if>
+			<rel>works</rel>
+			<pers> x </pers>
+			<where> department </where>
+		</if>
+		
+		<then>
+			
+		
+		</then>
+	
+	</rule>
+</rules>
